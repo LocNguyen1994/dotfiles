@@ -17,6 +17,6 @@ How to install the .bashrc:
 5. Restart your terminal
 6. Done!
 
-Het lukte me idk how: 
-![alt text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+test: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
